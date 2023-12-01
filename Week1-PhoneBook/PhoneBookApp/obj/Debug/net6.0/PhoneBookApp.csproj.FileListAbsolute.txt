@@ -1,0 +1,15 @@
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.exe
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.deps.json
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.runtimeconfig.json
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.dll
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.pdb
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.csproj.AssemblyReference.cache
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.AssemblyInfo.cs
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.dll
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\refint\PhoneBookApp.dll
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.pdb
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.genruntimeconfig.cache
+C:\Users\Emirhan ERSÖZ\Desktop\Patika.dev\Week1\PhoneBookApp\obj\Debug\net6.0\ref\PhoneBookApp.dll
